@@ -102,14 +102,14 @@ Full history available in **progress-tracker.md**
 
 ### 🧩 Codolio Activity Overview
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 
 ---
 
 ### 📊 Problem Solving Heatmap(Leetcode)
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 
 
@@ -117,7 +117,7 @@ Full history available in **progress-tracker.md**
 
 ### 🏆 Platform Statistics
 
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 
 
