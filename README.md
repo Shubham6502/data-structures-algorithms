@@ -180,7 +180,7 @@ I follow a structured problem-solving strategy:
 ## 👤 Author
 
 **Shubham Patil**
-MCA Student | Software Engineering Aspirant
+MCA Graduate| Software Engineering Aspirant
 Focused on mastering Data Structures & Algorithms.
 
 ---
